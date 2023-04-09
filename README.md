@@ -1,2 +1,2 @@
-# fuxagon.github.io
+# hotsnowcube.github.io
 Personal Website
